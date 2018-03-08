@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "267020227893",
+    "firebase_url": "https://aroutine-644fc.firebaseio.com",
+    "project_id": "aroutine-644fc",
+    "storage_bucket": "aroutine-644fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267020227893:android:973a3ba4da03ab8c",
+        "android_client_info": {
+          "package_name": "air.com.site.ARoutine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267020227893-vg7diaasj2lu84ru62uclmmo87m6jqpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkVI9NEr0YsIBIV0r60LWhhMmJuZv6QGg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
